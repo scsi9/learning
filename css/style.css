@@ -13,3 +13,8 @@ li {
     list-style-type: none;
     margin: 5px;
 }
+.authPage {
+    width: 200px;
+   margin: 0 auto;
+    
+}
