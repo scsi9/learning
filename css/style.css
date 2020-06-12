@@ -1,20 +1,24 @@
 body {
-    background-color: #f8f8f8;
+    
 }
+
 ul {
-     float: right;
-      list-style: none; 
-      margin-top: 10px;
+    float: right;
+    list-style: none;
+    margin-top: 10px;
     margin-right: 20px;
-      padding-left: 0;
+    padding-left: 0;
 }
+
 li {
     float: right;
     list-style-type: none;
     margin: 5px;
 }
+
 .authPage {
     width: 200px;
-   margin: 0 auto;
-    
+    margin: 0 auto;
+
 }
+
